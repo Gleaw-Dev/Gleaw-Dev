@@ -1,0 +1,3 @@
+- 👋 Hi There, I'm Gleaw
+- 👀 I’m interested in Game Lighting VFX
+- 🌱 I’m currently learning C#
